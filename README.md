@@ -2,7 +2,7 @@
 
 ## Overview
 
-SmartViewer-NodeMCU is an innovative project that combines the power of the NodeMCU microcontroller, socket programming, and machine learning to create an autonomous car equipped with a virtual camera. This project aims to enhance security and surveillance capabilities by allowing remote control and monitoring of the car's movements and surroundings. The car is programmed using Micropython, and the server is developed using Flask, with plans to transition to a socket-based server for enhanced performance.
+SmartViewer-NodeMCU is a project that combines the power of the NodeMCU microcontroller, socket programming, and artificial intelligence to create an autonomous car equipped with a virtual camera. This project aims to enhance security and surveillance capabilities by allowing remote control and monitoring of the car's movements and surroundings. The car is programmed using Micropython, and the server is developed using Flask, with plans to transition to a socket-based server for enhanced performance.
 
 ## Features
 
